@@ -1,2 +1,3 @@
 config:
- prod: prod
+ prod: 
+  active: true
